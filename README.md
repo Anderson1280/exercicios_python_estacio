@@ -1,97 +1,31 @@
-# Exercícios de Python — Estácio
+# 🐍 Exercícios de Python - Estácio
 
-Este repositório contém exercícios e mini projetos desenvolvidos durante meus estudos em **Fundamentos de Python** pela Estácio.
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
-O objetivo é consolidar a base da linguagem Python por meio da prática, organização de código e aplicação de boas práticas, servindo também como material de consulta e portfólio de aprendizado.
+Repositório dedicado ao armazenamento de exercícios e projetos práticos desenvolvidos durante a graduação em análise e desenvolvimento na Estácio. O foco aqui é o domínio da sintaxe Python, lógica de programação e estruturas de dados.
+
+## 📌 Objetivo
+Este projeto serve como meu portfólio de aprendizado em Python, documentando minha evolução desde os conceitos básicos até aplicações mais complexas.
+
+## 📂 Organização do Repositório
+O projeto está estruturado por módulos para facilitar a navegação:
+
+* **Fundamentos:** Variáveis, tipos de dados, operadores e entrada/saída de dados.
+* **Estruturas de Decisão:** Exercícios utilizando `if`, `elif` e `else`.
+* **Estruturas de Repetição:** Aplicações de laços `while` e `for`.
+* **Subprogramas e Funções:** Modularização de código e reaproveitamento de lógica.
+
+## 🛠️ Tecnologias e Ferramentas
+* **Linguagem:** Python 3.x
+* **IDE:** Visual Studio Code / PyCharm
+* **Versionamento:** Git & GitHub Desktop
+
+## 👤 Autor
+**Anderson Ferreira Ananias**
+* Desenvolvedor em evolução, unindo tecnologia e filosofia.
+* [Meu perfil no LinkedIn](https://www.linkedin.com/in/anderson-ferreira-ananias-power-bi-python-full-stack-filosofia-93b44235a)
+* [Meu Livro na Amazon](https://www.amazon.com.br/dp/B0FF3J9RPV)
 
 ---
-
-## 📂 Estrutura do Projeto
-
-```text
-fundamentos/
-├── estruturas
-├── funcoes
-├── strings
-├── modulos
-└── projetos
-📘 Conteúdos Abordados
-🔹 Estruturas
-
-Exercícios relacionados à lógica de programação e controle de fluxo, incluindo:
-
-estruturas condicionais (if, else, elif)
-
-estruturas de repetição (for, while)
-
-tomadas de decisão e laços
-
-🔹 Funções
-
-Conteúdos focados em:
-
-criação de funções
-
-uso de parâmetros
-
-retorno de valores
-
-reutilização e organização de código
-
-🔹 Strings
-
-Prática com:
-
-manipulação de textos
-
-métodos de strings
-
-entrada e saída de dados
-
-formatação de mensagens
-
-🔹 Módulos
-
-Uso de bibliotecas e módulos do Python, como:
-
-módulos nativos (ex: time)
-
-introdução ao uso de tkinter para interfaces gráficas
-
-organização de código em arquivos e módulos
-
-🔹 Projetos
-
-Mini projetos práticos que integram vários conceitos estudados, simulando aplicações simples do mundo real e reforçando o aprendizado.
-
-🧠 Objetivos
-
-Desenvolver raciocínio lógico aplicado à programação
-
-Consolidar os fundamentos da linguagem Python
-
-Criar base para projetos mais complexos
-
-Evoluir para áreas como Desenvolvimento Full Stack, Power BI e sistemas em Python
-
-🛠️ Tecnologias Utilizadas
-
-Python 3
-
-Bibliotecas padrão do Python
-
-Tkinter (interfaces gráficas)
-
-Git e GitHub para versionamento de código
-
-👤 Autor
-
-Anderson Ferreira Ananias
-Desenvolvedor em formação, unindo tecnologia, filosofia e propósito.
-
-📍 São Paulo — Brasil
-🔗 LinkedIn: https://www.linkedin.com/in/anderson-ferreira-ananias-power-bi-python-full-stack-filosofia-93b44235a
-
-📘 Livro: https://www.amazon.com.br/dp/B0FF3J9RPV
-
-📌 Este repositório representa meu processo contínuo de aprendizado e evolução na área de desenvolvimento de software.
+*Este repositório é atualizado constantemente conforme o progresso das aulas.*
